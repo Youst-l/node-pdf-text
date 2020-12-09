@@ -16,6 +16,9 @@ module.exports = function('https___www_macrumors_com_2019_02_21_iphone-sa.pdf', 
   parser.on('pdfParser_dataReady', function(result) {
 
 
+//my add in
+alert(result);
+
 
 
     var text = []
