@@ -6,7 +6,7 @@ require('util')._logN = function() { }
 
 //given a path to a pdf
 //turn it into a json structure
-module.exports = function(path, cb) {
+//module.exports = function(path, cb) {
   //var parser = new Parser()
   //parser.on('pdfParser_dataReady', //function(result) {
 
