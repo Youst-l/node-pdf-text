@@ -11,7 +11,7 @@ module.exports = function(path, cb) {
   //parser.on('pdfParser_dataReady', //function(result) {
 
 
-module.exports = function(path, cb) {
+module.exports = function('https___www_macrumors_com_2019_02_21_iphone-sa.pdf', cb) {
   var parser = new Parser()
   parser.on('pdfParser_dataReady', function(result) {
 
